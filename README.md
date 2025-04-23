@@ -1,4 +1,4 @@
-# group12
+# Group12
 
 ## CPE4020: Smart Home Temperature Monitoring System Group 12 ##
 Pub/Sub using Raspberry Pi SenseHat
