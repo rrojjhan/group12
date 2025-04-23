@@ -63,3 +63,8 @@ while True: #the code is continuosly looping to check for connections unless the
                 print(f"Error: {e}")
                 sockets_list.remove(sock)
                 sock.close()
+
+
+
+
+
